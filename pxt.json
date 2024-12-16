@@ -1,0 +1,20 @@
+
+---
+
+## **2. 伺服馬達控制積木**
+
+### **pxt.json**
+```json
+{
+    "name": "Servo V1.0",
+    "version": "1.0.0",
+    "description": "Control servo motors using micro:bit, including setting angles, defining limits, and smooth movements.",
+    "dependencies": {},
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ]
+}
