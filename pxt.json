@@ -1,13 +1,12 @@
 {
-    "name": "Servo V1.0",
-    "version": "1.0.0",
-    "description": "Control servo motors using micro:bit, including setting angles, defining limits, and smooth movements.",
-    "dependencies": {},
+    "name": "custom-servo",
+    "version": "0.0.1",
+    "description": "A servo motor package that supports all pins.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
     "files": [
-        "main.ts",
-        "README.md"
-    ],
-    "supportedTargets": [
-        "microbit"
+        "main.ts"
     ]
 }
