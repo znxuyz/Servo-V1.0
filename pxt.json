@@ -1,5 +1,5 @@
 {
-    "name": "custom-servo",
+    "name": "Servo-V1.2",
     "version": "0.0.1",
     "description": "A servo motor package that supports all pins.",
     "license": "MIT",
