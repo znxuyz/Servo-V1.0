@@ -1,7 +1,7 @@
 {
-    "name": "Servo-V1.2",
-    "version": "0.0.1",
-    "description": "A servo motor package that supports all pins.",
+    "name": "servo-motor",
+    "version": "0.0.3",
+    "description": "伺服馬達模組，支援角度控制、變數控制角度、最大最小值設置。",
     "license": "MIT",
     "dependencies": {
         "core": "*"
