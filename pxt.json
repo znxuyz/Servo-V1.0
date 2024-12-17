@@ -1,7 +1,7 @@
 {
     "name": "servo-motor",
-    "version": "0.0.3",
-    "description": "伺服馬達模組，支援角度控制、變數控制角度、最大最小值設置。",
+    "version": "0.0.4",
+    "description": "伺服馬達模組，支援角度控制、根據光敏電阻變數改變角度。",
     "license": "MIT",
     "dependencies": {
         "core": "*"
